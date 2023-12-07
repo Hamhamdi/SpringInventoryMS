@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.MicroserviceP1.ProductService.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.925 s - in com.MicroserviceP1.ProductService.ProductServiceApplicationTests

@@ -1,0 +1,10 @@
+com/MicroserviceP1/ProductService/Model/Product$ProductBuilder.class
+com/MicroserviceP1/ProductService/Dto/ProductRequest.class
+com/MicroserviceP1/ProductService/Repository/ProductRepository.class
+com/MicroserviceP1/ProductService/Dto/ProductRequest$ProductRequestBuilder.class
+com/MicroserviceP1/ProductService/Dto/ProductResponse.class
+com/MicroserviceP1/ProductService/ProductServiceApplication.class
+com/MicroserviceP1/ProductService/Service/ProductService.class
+com/MicroserviceP1/ProductService/Controller/ProcuctController.class
+com/MicroserviceP1/ProductService/Dto/ProductResponse$ProductResponseBuilder.class
+com/MicroserviceP1/ProductService/Model/Product.class
